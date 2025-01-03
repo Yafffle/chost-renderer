@@ -2,7 +2,8 @@
 An HTML renderer for your archived cohost.org posts located in your data export folder in the form of json files.
 
 # Compatibility
-Might not work in **Safari** browsers. Needs more testing.
+* Might not work in **Safari** browsers. Needs more testing.
+* Is not intended for rendering CSS Crimes posts.
 
 # How To Use
 1. Unzip the downloaded **chost-renderer.zip** archive.
