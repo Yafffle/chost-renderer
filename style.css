@@ -1,0 +1,86 @@
+header
+{
+	width: 100%;
+	background-color: rgb(131, 37, 79);
+	color: rgb(255, 249, 242);
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+body
+{
+	font-family: Atkinson Hyperlegible, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	background-color: rgb(255, 249, 242);
+	color: rgb(25,25,25);
+}
+
+footer
+{
+	color: rgb(25,25,25);
+	width: 100%;
+	font-size: 0.75rem;
+	text-align: center;
+
+	margin-top: 100px;
+}
+
+blockquote
+{
+	font-style: italic;
+	quotes: "“" "”" "‘" "’";
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-inline-start: 16px;
+	border-inline-start-color: rgb(229, 231, 235);
+	border-inline-start-width: 3.05px;
+	border-left-style: solid;
+	border-left-color: rgb(229, 231, 235);
+	border-left-width: 3.05px;
+	color: rgb(17, 24, 39);
+}
+
+#chostContainer
+{
+	margin-top: 75px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	font-size: 1rem;
+	font-variation-settings: normal;
+	line-height: 1.75;
+	overflow-wrap: break-word;
+	text-align: left;
+	
+
+	//border-style: solid;
+	//border-width: 1px;
+
+}
+
+#chostContainer th, td
+{
+	width: 50%;
+	vertical-align: top;
+}
+
+#chostContainer td 
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb(222, 217, 211);
+	background-color: rgb(255, 249, 252);
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#tagLine
+{
+	color: rgb(104, 102, 100);
+	font-size: 0.875rem;
+}
